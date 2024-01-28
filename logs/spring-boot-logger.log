@@ -1,0 +1,822 @@
+2024-01-28 15:33:54,933 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 91069064ms
+2024-01-28 15:34:07,700 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:34:08,208 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:34:37,726 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:34:38,235 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:34:54,934 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:35:07,758 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:35:08,270 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:35:37,792 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:35:38,299 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:35:54,934 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:36:07,813 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:36:08,322 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:36:37,838 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:36:38,350 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:36:54,934 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:37:07,867 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:37:08,380 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:37:37,894 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:37:38,412 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:37:54,934 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:38:07,917 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:38:08,430 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:38:37,935 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:38:38,445 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:38:53,383 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 15:38:54,935 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:39:07,965 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:39:08,480 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:39:37,995 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:39:38,526 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:39:54,937 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2024-01-28 15:40:08,023 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:40:08,527 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:40:38,043 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:40:38,554 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:40:54,938 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 15:41:08,065 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:41:08,584 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:41:38,096 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:41:38,628 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:41:54,938 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:42:08,116 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:42:08,625 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:42:38,151 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:42:38,659 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:42:54,939 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:43:08,176 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:43:08,708 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:43:38,198 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:43:38,716 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:43:54,952 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2024-01-28 15:44:08,229 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:44:08,763 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:44:38,263 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:44:38,788 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:44:54,953 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 15:45:08,291 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:45:08,812 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:45:38,315 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:45:38,843 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:45:54,964 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 10ms
+2024-01-28 15:46:08,350 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:46:08,862 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:46:38,384 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:46:38,918 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:46:54,965 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:47:08,404 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:47:08,931 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:47:38,426 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:47:38,944 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:47:54,973 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 8ms
+2024-01-28 15:48:08,457 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:48:08,985 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:48:38,482 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:48:39,013 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:48:54,982 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2024-01-28 15:49:08,508 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:49:09,018 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:49:38,540 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:49:39,055 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:49:54,982 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:50:08,575 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:50:09,083 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:50:38,605 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:50:39,116 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:50:54,982 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:51:08,629 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:51:09,142 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:51:38,651 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:51:39,166 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:51:54,982 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 15:52:08,681 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:52:09,192 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:52:38,707 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:52:39,227 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:52:54,985 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2024-01-28 15:53:08,729 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:53:09,241 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:53:38,753 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:53:39,264 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:53:53,384 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 15:53:54,986 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 15:54:08,780 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:54:09,285 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:54:38,806 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:54:39,319 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:54:54,986 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 15:55:08,834 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:55:09,367 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:55:38,858 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:55:39,366 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:55:54,991 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2024-01-28 15:56:08,880 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:56:09,410 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:56:38,903 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:56:39,422 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:56:55,005 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2024-01-28 15:57:08,922 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:57:09,434 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 15:57:38,953 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 15:57:39,463 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:05:05,216 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 430228ms
+2024-01-28 16:05:19,178 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:05:19,686 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:05:49,199 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:05:49,720 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:06:05,222 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2024-01-28 16:06:19,226 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:06:19,733 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:06:49,254 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:06:49,769 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:07:05,222 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:07:19,284 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:07:19,816 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:07:49,311 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:07:49,839 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:08:05,228 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 16:08:19,345 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:08:19,860 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:08:49,371 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:08:49,881 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:09:05,229 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 16:09:19,393 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:09:19,908 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:09:49,417 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:09:49,925 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:10:05,229 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:10:19,441 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:10:19,955 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:10:49,473 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:10:50,002 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:11:05,244 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 15ms
+2024-01-28 16:11:19,510 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:11:20,024 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:11:49,536 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:11:50,050 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:12:05,244 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:12:19,566 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:12:20,076 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:12:49,599 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:12:50,109 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:13:05,244 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:13:19,629 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:13:20,137 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:13:49,657 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:13:50,171 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:14:05,246 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 16:14:19,688 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:14:20,197 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:14:49,713 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:14:50,244 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:15:05,260 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 13ms
+2024-01-28 16:15:19,734 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:15:20,251 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:15:49,759 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:15:50,288 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:16:03,592 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 16:16:05,264 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2024-01-28 16:16:19,777 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:16:20,288 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:16:49,797 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:16:50,311 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:17:05,264 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:17:19,824 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:17:20,335 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:17:49,850 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:17:50,363 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:18:05,265 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 16:18:19,880 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:18:20,391 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:18:49,906 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:18:50,419 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:19:05,266 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:19:19,927 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:19:20,441 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:19:49,947 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:19:50,463 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:20:05,267 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 16:20:19,973 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:20:20,483 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:20:49,997 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:20:50,506 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:21:05,268 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:21:20,027 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:21:20,534 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:21:50,050 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:21:50,558 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:22:05,268 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:22:20,076 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:22:20,580 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:22:50,100 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:22:50,616 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:23:05,270 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 16:23:20,131 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:23:20,634 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:23:50,152 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:23:50,663 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:24:05,270 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:24:20,174 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:24:20,677 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:24:50,195 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:24:50,699 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:25:05,270 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:25:20,223 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:25:20,736 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:25:50,243 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:25:50,750 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:26:05,270 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:26:20,268 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:26:20,777 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:26:50,294 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:26:50,801 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:27:05,270 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:27:20,321 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:27:20,834 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:27:50,353 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:27:50,868 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:28:05,271 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:28:20,375 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:28:20,888 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:28:50,395 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:28:50,900 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:29:05,271 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:29:20,418 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:29:20,925 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:29:50,443 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:29:50,955 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:30:05,272 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:30:20,474 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:30:20,985 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:30:50,500 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:30:51,004 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:31:03,592 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 16:31:05,273 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:31:20,525 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:31:21,056 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:31:50,551 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:31:51,086 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:32:05,279 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 16:32:20,581 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:32:21,093 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:32:50,611 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:32:51,141 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:33:05,285 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 16:33:20,636 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:33:21,167 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:33:50,654 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:33:51,186 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:34:05,295 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 9ms
+2024-01-28 16:34:20,682 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:34:21,200 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:34:50,716 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:34:51,236 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:35:05,300 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 16:35:20,742 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:35:21,249 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:35:50,767 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:35:51,279 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:36:05,300 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:36:20,797 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:36:21,308 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:36:50,830 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:36:51,340 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:37:05,301 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:37:20,852 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:37:21,365 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:37:50,878 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:37:51,385 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:38:05,302 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:38:20,907 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:38:21,413 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:38:50,939 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:38:51,448 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:39:05,303 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:39:20,972 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:39:21,489 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:39:51,001 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:39:51,532 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:40:05,305 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2024-01-28 16:40:21,029 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:40:21,547 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:40:51,061 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:40:51,591 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:41:05,311 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 16:41:21,081 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:41:21,592 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:41:51,106 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:41:51,634 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:42:05,312 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:42:21,135 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:42:21,654 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:42:51,162 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:42:51,680 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:43:05,317 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 16:43:21,191 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:43:21,718 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:43:51,221 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:43:51,751 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:44:05,324 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 6ms
+2024-01-28 16:44:21,250 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:44:21,763 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:44:51,280 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:44:51,789 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:45:05,324 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:45:21,299 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:45:21,828 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:45:51,332 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:45:51,863 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:46:03,607 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 16:46:05,327 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2024-01-28 16:46:21,353 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:46:21,871 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:46:51,382 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:46:51,913 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:47:05,338 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 11ms
+2024-01-28 16:47:21,407 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:47:21,913 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:47:51,425 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:47:51,935 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:48:05,339 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:48:21,459 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:48:21,986 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:48:51,483 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:48:52,001 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:49:05,339 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:49:21,507 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:49:22,039 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:49:51,537 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:49:52,069 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:50:05,341 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2024-01-28 16:50:21,569 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:50:22,081 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:50:51,601 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:50:52,116 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:51:05,341 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:51:21,629 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:51:22,133 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:51:51,656 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:51:52,165 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:52:05,341 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:52:21,686 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:52:22,200 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:52:51,712 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:52:52,220 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:53:05,342 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:53:21,734 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:53:22,246 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:53:51,766 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:53:52,275 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:54:05,342 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:54:21,796 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:54:22,306 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:54:51,818 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:54:52,326 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:55:05,343 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:55:21,842 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:55:22,359 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:55:51,867 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:55:52,400 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:56:05,347 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 3ms
+2024-01-28 16:56:21,890 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:56:22,419 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:56:51,924 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:56:52,442 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:57:05,362 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 15ms
+2024-01-28 16:57:21,957 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:57:22,486 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:57:51,979 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:57:52,510 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:58:05,368 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 16:58:21,996 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:58:22,507 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:58:52,022 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:58:52,530 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:59:05,369 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 16:59:22,052 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:59:22,565 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 16:59:52,079 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 16:59:52,589 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:00:05,369 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:00:22,101 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:00:22,607 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:00:52,129 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:00:52,641 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:01:03,617 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 17:01:05,369 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:01:22,150 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:01:22,661 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:01:52,175 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:01:52,685 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:02:05,370 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:02:22,207 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:02:22,715 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:02:52,239 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:02:52,752 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:03:05,370 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:03:22,261 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:03:22,770 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:03:52,285 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:03:52,795 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:04:05,370 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:04:22,311 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:04:22,825 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:04:52,333 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:04:52,841 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:05:05,371 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:05:22,360 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:05:22,873 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:05:52,383 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:05:52,895 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:06:05,371 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:06:22,400 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:06:22,905 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:06:52,419 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:06:52,929 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:07:05,371 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:07:22,453 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:07:22,959 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:07:52,471 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:07:52,973 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:08:05,372 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:08:22,493 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:08:22,999 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:08:52,518 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:08:53,026 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:09:05,373 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:09:22,549 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:09:23,052 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:09:52,571 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:09:53,084 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:10:05,374 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:10:22,590 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:10:23,099 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:10:52,618 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:10:53,128 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:11:05,374 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:11:22,644 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:11:23,148 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:11:52,667 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:11:53,178 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:12:05,375 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:12:22,691 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:12:23,200 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:12:52,712 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:12:53,226 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:13:05,376 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:13:22,732 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:13:23,241 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:13:52,759 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:13:53,265 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:14:05,377 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 17:14:22,785 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:14:23,294 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:14:52,816 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:14:53,326 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:15:05,377 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:15:22,845 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:15:23,351 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:15:52,869 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:15:53,380 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:16:03,617 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 17:16:05,377 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:16:22,892 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:16:23,423 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:16:52,913 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:16:53,441 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:17:05,391 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 14ms
+2024-01-28 17:17:22,934 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:17:23,445 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:17:52,965 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:17:53,484 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:18:05,393 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 2ms
+2024-01-28 17:18:22,995 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:18:23,515 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:18:53,022 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:18:53,542 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:19:05,408 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 15ms
+2024-01-28 17:19:23,044 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:19:23,556 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:19:53,075 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:19:53,586 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:20:05,408 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:20:23,092 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:20:23,597 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:20:53,125 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:20:53,630 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:21:05,410 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 17:21:23,146 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:21:23,666 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:21:53,170 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:21:53,702 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:22:05,414 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 4ms
+2024-01-28 17:22:23,198 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:22:23,717 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:22:53,224 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:22:53,740 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:23:05,419 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 5ms
+2024-01-28 17:23:23,247 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:23:23,750 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:23:53,275 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:23:53,802 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:24:05,421 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 17:24:23,296 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:24:23,810 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:24:53,315 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:24:53,818 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:25:05,421 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:25:23,342 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:25:23,864 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:25:53,359 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:25:53,890 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:26:05,422 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 17:26:23,379 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:26:23,885 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:26:53,403 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:26:53,911 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:27:05,422 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:27:23,421 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:27:23,954 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:27:53,440 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:27:53,969 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:28:05,424 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 17:28:23,468 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:28:24,000 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:28:53,499 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:28:54,017 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:29:05,424 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:29:23,530 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:29:24,047 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:29:53,549 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:29:54,079 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:30:05,433 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 7ms
+2024-01-28 17:30:23,573 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:30:24,079 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:30:53,599 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:30:54,104 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:31:03,617 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 17:31:05,433 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:31:23,634 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:31:24,140 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:31:53,661 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:31:54,172 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:32:05,433 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:32:23,688 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:32:24,194 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:32:53,707 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:32:54,219 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:33:05,433 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:33:23,737 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:33:24,251 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:52:21,068 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:52:21,573 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:52:32,760 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1107343ms
+2024-01-28 17:52:51,090 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:52:51,600 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:53:21,122 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:53:21,631 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:53:32,761 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:53:51,148 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:53:51,657 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:54:21,176 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:54:21,685 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:54:32,761 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:54:51,203 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:54:51,712 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:55:21,232 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:55:21,741 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:55:32,761 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:55:51,261 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:55:51,766 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:56:21,290 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:56:21,800 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:56:32,761 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:56:51,310 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:56:51,821 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:57:21,337 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:57:21,845 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 17:57:32,762 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 17:57:51,354 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 17:57:51,858 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:17:28,496 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:17:29,010 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:17:39,880 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 19151842ms
+2024-01-28 23:17:58,528 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:17:59,034 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:18:28,545 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:18:29,056 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:18:39,881 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:18:58,564 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:18:59,073 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:19:28,581 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:19:29,087 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:19:39,881 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:19:58,600 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:19:59,107 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:20:28,631 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:20:29,137 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:20:39,882 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:20:58,656 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:20:59,163 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:21:28,677 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:21:29,184 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:21:39,882 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:21:58,704 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:21:59,213 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:22:28,730 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:22:29,239 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:22:39,883 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:22:58,752 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:22:59,267 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:23:28,782 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:23:29,289 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:23:38,065 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 23:23:39,883 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:23:58,810 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:23:59,325 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:24:28,845 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:24:29,351 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:24:39,884 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:24:58,876 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:24:59,384 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:25:28,900 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:25:29,408 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:25:39,884 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:25:58,933 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:25:59,441 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:26:28,958 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:26:29,466 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:26:39,884 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:26:58,992 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:26:59,503 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:27:29,022 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:27:29,534 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:27:39,884 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:27:59,054 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:27:59,567 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:28:29,085 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:28:29,599 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:28:39,884 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:28:59,111 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:28:59,617 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:29:29,135 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:29:29,641 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:29:39,884 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:29:59,153 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:29:59,658 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:30:29,188 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:30:29,699 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:30:39,885 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 23:30:59,216 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:30:59,720 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:31:29,238 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:31:29,746 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:31:39,885 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:31:59,269 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:31:59,779 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:32:29,288 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:32:29,794 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:32:39,886 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 23:32:59,321 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:32:59,829 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:33:29,349 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:33:29,863 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:33:39,887 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:33:59,380 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:33:59,887 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:34:29,411 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:34:29,921 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:34:39,888 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 23:34:59,441 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:34:59,959 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:35:29,468 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:35:29,978 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:35:39,889 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:35:59,496 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:36:00,007 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:36:29,522 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:36:30,034 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:36:39,889 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:36:59,548 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:37:00,056 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:37:29,568 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:37:30,073 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:37:39,890 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:37:59,597 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:38:00,103 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:38:29,620 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:38:30,127 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:38:38,063 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 23:38:39,891 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 23:38:59,652 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:39:00,159 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:39:29,676 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:39:30,184 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:39:39,891 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:39:59,709 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:40:00,213 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:40:29,736 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:40:30,240 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:40:39,892 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 1ms
+2024-01-28 23:40:59,766 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:41:00,276 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:41:29,794 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:41:30,304 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:41:39,893 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:41:59,819 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:42:00,330 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:42:29,846 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:42:30,353 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:42:39,893 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:42:59,877 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:43:00,383 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:43:29,905 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:43:30,410 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:43:39,894 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:43:59,937 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:44:00,444 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:44:29,966 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:44:30,479 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:44:39,895 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:44:59,992 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:45:00,501 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:45:30,018 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:45:30,526 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:45:39,895 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:46:00,036 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:46:00,541 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:46:30,055 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:46:30,568 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:46:39,897 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:47:00,082 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:47:00,596 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:47:30,101 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:47:30,608 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:47:39,897 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:48:00,119 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:48:00,624 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:48:30,146 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:48:30,652 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:48:39,898 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:49:00,175 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:49:00,682 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:49:30,197 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:49:30,712 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:49:39,898 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:50:00,220 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:50:00,733 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:50:30,236 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:50:30,749 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:50:39,899 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:51:00,265 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:51:00,771 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:51:30,291 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:51:30,805 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:51:39,899 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:52:00,315 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:52:00,825 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:52:30,348 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:52:30,852 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:52:39,900 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:53:00,375 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-7] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:53:00,879 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-10] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:53:30,409 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:53:30,920 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-2] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:53:38,065 INFO c.n.e.r.PeerAwareInstanceRegistryImpl [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] Current renewal threshold is : 3
+2024-01-28 23:53:39,900 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:54:00,437 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:54:00,951 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-4] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:54:30,469 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-1] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:54:30,973 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-8] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:54:39,900 INFO c.n.e.r.AbstractInstanceRegistry$EvictionTask [Eureka-EvictionTimer] Running the evict task with compensationTime 0ms
+2024-01-28 23:55:00,501 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-6] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:55:01,007 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-9] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:55:30,531 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-5] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}false
+2024-01-28 23:55:31,040 DEBUG o.s.c.n.e.s.InstanceRegistry [http-nio-8761-exec-3] renew MY-SPRING-CLOUD-EUREKA-CLIENT serverId DESKTOP-1G4RI18:my-spring-cloud-eureka-client:8001, isReplication {}true
+2024-01-28 23:55:32,429 INFO o.s.c.n.e.s.EurekaServiceRegistry [SpringApplicationShutdownHook] Unregistering application DISCOVERY-SERVICE with eureka with status DOWN
+2024-01-28 23:55:32,494 INFO o.s.c.n.e.s.EurekaServerBootstrap [SpringApplicationShutdownHook] Shutting down Eureka Server..
+2024-01-28 23:55:32,500 INFO c.n.e.DefaultEurekaServerContext [SpringApplicationShutdownHook] Shutting down ...
+2024-01-28 23:55:32,502 INFO c.n.s.m.StatsMonitor [SpringApplicationShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.batchSize.Will start computing stats again.
+2024-01-28 23:55:32,503 INFO c.n.s.m.StatsMonitor [SpringApplicationShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.executionTime.Will start computing stats again.
+2024-01-28 23:55:32,504 INFO c.n.s.m.StatsMonitor [SpringApplicationShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.executionTime.Will start computing stats again.
+2024-01-28 23:55:32,505 INFO c.n.s.m.StatsMonitor [SpringApplicationShutdownHook] Attempting to get the value for an expired monitor: eurekaServer.replication.batchSize.Will start computing stats again.
+2024-01-28 23:55:32,507 ERROR c.n.d.s.t.j.EurekaJersey3ClientImpl$ConnectionCleanerTask [Eureka-Jersey3Client-Conn-Cleaner2] Cannot clean connections
+java.lang.IllegalStateException: Client instance has been closed.
+	at org.glassfish.jersey.internal.guava.Preconditions.checkState(Preconditions.java:169)
+	at org.glassfish.jersey.client.JerseyClient.checkNotClosed(JerseyClient.java:257)
+	at org.glassfish.jersey.client.JerseyClient.getConfiguration(JerseyClient.java:372)
+	at org.glassfish.jersey.client.JerseyClient.getConfiguration(JerseyClient.java:56)
+	at com.netflix.discovery.shared.transport.jersey3.EurekaJersey3ClientImpl$ConnectionCleanerTask.run(EurekaJersey3ClientImpl.java:347)
+	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)
+	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
+	at java.base/java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:304)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+2024-01-28 23:55:32,529 INFO c.n.e.DefaultEurekaServerContext [SpringApplicationShutdownHook] Shut down
+2024-01-28 23:55:32,529 INFO o.s.c.n.e.s.EurekaServerBootstrap [SpringApplicationShutdownHook] Eureka Service is now shutdown...
+2024-01-28 23:55:32,531 INFO c.n.e.DefaultEurekaServerContext [SpringApplicationShutdownHook] Shutting down ...
+2024-01-28 23:55:32,534 INFO c.n.e.DefaultEurekaServerContext [SpringApplicationShutdownHook] Shut down
+2024-01-28 23:55:32,554 INFO c.n.d.DiscoveryClient [SpringApplicationShutdownHook] Shutting down DiscoveryClient ...
+2024-01-28 23:55:32,555 INFO c.n.d.DiscoveryClient [SpringApplicationShutdownHook] Completed shut down of DiscoveryClient
